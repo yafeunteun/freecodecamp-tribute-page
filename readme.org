@@ -1,4 +1,4 @@
-# freecodecamp-tribute-page
+* freecodecamp-tribute-page
 1st Project toward the freecodecamp fullstack certification.
 
 Live version: 
